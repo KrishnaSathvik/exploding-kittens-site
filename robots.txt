@@ -1,3 +1,51 @@
+# Allow every search engine and AI answer crawler.
+# Do not add Disallow for GPTBot, OAI-SearchBot, PerplexityBot, or Claude-SearchBot
+# if you want ChatGPT, Perplexity, and Claude to cite this guide.
+
 User-agent: *
 Allow: /
-Sitemap: https://exploding-kittens-site.vercel.app/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+Sitemap: https://explodingkittensrules.com/sitemap.xml
+# AI site map: https://explodingkittensrules.com/llms.txt

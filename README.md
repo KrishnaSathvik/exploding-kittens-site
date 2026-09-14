@@ -2,7 +2,7 @@
 
 Interactive Exploding Kittens rules guide: setup by player count, every card explained, turn flow, combos, FAQ, tips, and a printable one-page cheat sheet.
 
-Live site: [exploding-kittens-site.vercel.app](https://exploding-kittens-site.vercel.app/)
+Live site: [explodingkittensrules.com](https://explodingkittensrules.com/)
 
 ## Local preview
 

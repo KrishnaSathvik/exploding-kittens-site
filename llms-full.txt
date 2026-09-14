@@ -1,0 +1,75 @@
+# How to play Exploding Kittens
+
+Fan-made rules summary. Last updated: 2026-09-14.
+Source: https://explodingkittensrules.com/
+Printable cheat sheet: https://explodingkittensrules.com/cheatsheet
+
+Exploding Kittens is a 2–5 player card game that takes about 15 minutes. Players take turns drawing from a shared deck. If you draw an Exploding Kitten and cannot play a Defuse, you are out. The last player who has not exploded wins.
+
+This page is an unofficial fan guide, not the Exploding Kittens LLC store.
+
+## Setup
+
+1. Remove all 4 Exploding Kittens and all 6 Defuse cards from the deck.
+2. Shuffle the remaining cards and deal 7 cards face-down to each player.
+3. Give 1 Defuse to every player so each hand has 8 cards. Hands stay secret.
+4. Return at most 2 leftover Defuse cards to the deck. Remove any extras.
+5. Insert Exploding Kittens equal to players minus 1. Shuffle. Place the deck face-down. Leave space for a discard pile. Pick a first player.
+
+### Kittens and extra Defuses by player count
+
+| Players | Exploding Kittens in the deck | Extra Defuses returned to the deck |
+| --- | --- | --- |
+| 2 | 1 | 2 |
+| 3 | 2 | 2 |
+| 4 | 3 | 2 |
+| 5 | 4 | 1 |
+
+## How a turn works
+
+1. Play cards (optional): play as many action cards as you want, or none. Effects happen immediately. Played cards go face-up on the discard pile.
+2. Draw a card (mandatory): draw the top card of the deck. If it is safe, add it to your hand. Your turn ends and play passes clockwise.
+
+If you draw an Exploding Kitten:
+
+- With a Defuse: play the Defuse, then secretly put the Exploding Kitten back anywhere in the deck. You survive. Your turn ends.
+- Without a Defuse: show the Exploding Kitten immediately, discard your whole hand, and you are out.
+
+## The cards (56 total)
+
+- Exploding Kitten (4): draw it and you are out unless you Defuse. Reveal it immediately. Cannot be Noped.
+- Defuse (6): saves you from an Exploding Kitten. Secretly place the kitten back anywhere in the deck. Cannot be Noped.
+- Nope (5): cancel any action card or combo, even on someone else's turn. Cannot stop Exploding Kittens or Defuses. A Nope on a Nope is a Yup and the original action happens.
+- Attack (4): end your turn without drawing. The next player must take 2 turns. Attacks stack: if you are attacked and play Attack, the next player takes 4 turns.
+- Skip (4): end your turn without drawing. If you owe 2 turns from an Attack, one Skip ends only one of them.
+- See the Future (5): privately peek at the top 3 cards and put them back in the same order.
+- Shuffle (4): randomly shuffle the draw pile. It is still your turn.
+- Favor (4): pick a player; they must give you 1 card of their choice.
+- Cat cards (20; 5 types × 4): no effect alone. Used in combos.
+
+## Special combos
+
+Combos use any matching card names (cats or other matching cards). Ignore those cards' normal actions. Nope can cancel combos.
+
+- 2 of a kind: steal a random card from any player's hand.
+- 3 of a kind: name a card; if that player has it, they must give it to you.
+- 5 different cards: take any card from the discard pile.
+
+## FAQ
+
+- Is there a maximum hand size? No. There is no maximum or minimum. If you run out of cards, keep playing and draw on your next turn.
+- Can the draw pile run out? No. Enough Exploding Kittens are added to eliminate every player except one.
+- Can you look at the discard pile? Yes. It is public.
+- What if you Attack a player who was already attacked? Attacks stack. If you are attacked and play Attack, the next player takes 4 turns.
+- Does Skip cancel an Attack? Only partly. If you owe 2 turns, one Skip ends one of them; two Skips end both.
+- What happens if you draw an Exploding Kitten without a Defuse? Show it immediately, discard your hand, and you are out.
+
+## Quick tips
+
+- Track Defuse cards. When they are gone, every draw is dangerous.
+- You may count cards left in the deck.
+- Use See the Future before Skip, Attack, or Shuffle.
+- Save Nopes for high-impact plays, such as someone targeting a Defuse.
+- After you Defuse, you may place the kitten on top of the deck to hit the next player.
+
+Exploding Kittens is a trademark of Exploding Kittens LLC.
